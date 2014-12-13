@@ -1,7 +1,7 @@
 This is the Template Your Boilerplate (TYB) library.
 
 The "Template Your Boilerplate" paper documents the design of this library
-and is available at: http://cs.pdx.edu/~adamsmic/projects/tyb/TYB.pdf
+and is available at: http://michaeldadams.org/papers/tyb/tyb-2012-haskell.pdf
 
 The TYB library is in the Data.Generics.TH module.
 

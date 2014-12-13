@@ -5,7 +5,7 @@ Description:         TYB is a generic-programming system that uses Template
                      Haskell to generate boiler-plate traversals at compile
                      time.  This results in significantly improved
                      performance.  The paper documenting it is available at:
-                     <http://cs.pdx.edu/~adamsmic/projects/tyb/TYB.pdf>
+                     <http://michaeldadams.org/papers/tyb/tyb-2012-haskell.pdf>
 License:             BSD3
 License-file:        LICENSE
 Author:              Michael D. Adams, Thomas M. DuBuisson
@@ -15,6 +15,7 @@ Category:            Generics
 Build-type:          Simple
 Extra-source-files:  README.md examples/*.hs util/makeVarSet.hs
 Cabal-version:       >=1.8
+Homepage:            https://github.com/TomMD/TYB.git
 
 Library
   Exposed-modules:     Data.Generics.TH
